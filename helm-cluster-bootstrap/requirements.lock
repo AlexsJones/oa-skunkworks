@@ -1,0 +1,6 @@
+dependencies:
+- name: kubernetes-etcd-cluster
+  repository: file://../kubernetes-etcd-cluster
+  version: 0.1.0
+digest: sha256:00aa76f25f6321d6875720982465f47ce9a25d4a895b60be96efcd1a9d2b43cc
+generated: "2019-08-08T17:01:18.939337+01:00"
